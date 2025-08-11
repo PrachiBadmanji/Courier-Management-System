@@ -1,31 +1,22 @@
-Free Download Source Code "Courier Management System"
+# 📦 Courier Management System
 
-FIRST Download
+A web-based application to manage courier shipments, track parcel deliveries, and maintain customer records efficiently.
 
-1.XAMPP
+## 🚀 Features
+- Add, update, and delete courier records
+- Track parcels with unique tracking IDs
+- User and admin login system
+- Dashboard for shipment overview
+- Delivery status updates
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+## 🛠 Tech Stack
+**Frontend:** HTML, CSS, JavaScript  
+**Backend:** PHP 
+**Database:** MySQL  
+**Other Tools:** XAMPP , phpMyAdmin
 
-3"cms_db"
+## ⚙️ Installation
+ **Clone the repository**
+   ```bash
+   git clone https://github.com/PrachiBadmanji/courier-management-system.git
 
-4. Download the zip file/ download winrar
-
-5. Extract the file and copy "cms" folder
-
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
-
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-8. Create a database with name cms_db
-
-6. Import cms_db.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/cms
-**LOGIN DETAILS** 
-
-Admin
-user: admin@admin.com	
-pass: admin123
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
